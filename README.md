@@ -1,2 +1,3 @@
-# edu-mall
- project3
+# Edu-Mall
+Website for free sharing educational resources (Like eBooks).
+ 
